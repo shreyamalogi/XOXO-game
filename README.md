@@ -65,7 +65,8 @@ To run the XOXO Game locally on your machine, follow these steps:
 1. Clone this repository to your local machine using `git clone`.
 2. Open the `index.html` file in your web browser.
 
-Alternatively, you can play the game online by [https://8jzrw.csb.app/](https://8jzrw.csb.app/).
+Alternatively, you can play the game online at [web app ](https://8jzrw.csb.app/). 
+or https://shreyamalogi.github.io/XOXO-game/
 
 ## How to Play
 
