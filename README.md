@@ -10,7 +10,7 @@ Welcome to the XOXO Game - a classic tic-tac-toe experience (XOXO) game.
 - **Tech Stack:** `HTML`, `CSS`, `JavaScript `, `Bootstrap`, `Font Awesome`, `jQuery`, `AI` `(minimax algorithm for computer opponent)`
 - **Author:** [@shreyamalogi](https://github.com/shreyamalogi/)
 - **Year of Creation:** 2020
-  
+- **View the Project Here**  https://shreyamalogi.github.io/XOXO-game/ 
 ---
 
 ## Table of Contents
